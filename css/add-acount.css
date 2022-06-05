@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    width: 50%;
+    height: 80%;
+    margin: 20px auto;
+    background-color: beige;
+}
+.head img{
+    height: 200px;
+    width: 220px;
+    margin-top: 50px;
+    margin-left:200px;
+    margin-right: 220px;
+}
+.head h3{
+    font-size: 25px;
+    margin-left: 210px;
+}
+.body input{
+    height: 40px;
+    width: 450px;
+    padding: 10px auto;
+    font-size: 33px;
+    margin-left: 100px;
+    border-radius: 10px;
+    background-color: beige;
+}
+.one input{
+height: 20px;
+width: 20px;
+}
+span{
+    font-size: 20px;
+    margin-left: 10px;
+}
+button{
+    height: 40px;
+    width: 450px;
+    padding: 10px auto;
+    font-size: 35px;
+    margin-left: 100px;
+    border-radius: 10px;
+    background-color: beige;
+}
+#one{
+    font-size: 30px;
+   margin-left: 200px; 
+}
